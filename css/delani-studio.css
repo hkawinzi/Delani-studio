@@ -18,7 +18,14 @@ h3 {
     color: whitesmoke;
     font-family: 'Anton', sans-serif;
 }
+.design-hidden {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
 h4 {
-    color:whitesmoke;
+    color:black;
     font-family: 'Abel', sans-serif;
+    text-decoration: underline;
+    font-family: 'Abril Fatface', cursive;
 }
