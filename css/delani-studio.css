@@ -1,18 +1,17 @@
-.home {
+.section1 {
     background-image: url("file:///home/hapiness/IP3/backgrounds/h_img.jpg");
     background-position: cover;
     display: flex;
-   flex-direction: column;
+    flex-direction: column;
    align-items: center;
-   justify-content: center;
+   justify-content: center; 
    height:100vh;
    margin-top: zeal;
-   margin-bottom: zeal;
-  
+   margin-bottom: zeal;  
 }
-.services {
+.service {
     background-image: url("file:///home/hapiness/IP3/backgrounds/s_image.jpg");
-    background-position: cover;
+    text-color
 }
 .design-hidden {
     margin-left: 10px;
@@ -32,4 +31,5 @@ h5 {
 }
 p {
     text-align: center;
+    text-color:white;
 }
