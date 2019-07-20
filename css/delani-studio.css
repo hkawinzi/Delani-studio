@@ -1,5 +1,6 @@
 .section1 {
     background-image: url("file:///home/hapiness/IP3/backgrounds/h_img.jpg");
+    background-size:1380px 671px;
     background-position: cover;
     display: flex;
     flex-direction: column;
@@ -9,15 +10,15 @@
    margin-top: zeal;
    margin-bottom: zeal;  
 }
-h1 {
+h2 {
     color: whitesmoke;
     font-family: 'Dancing Script', cursive;
 }
-h2 {
+h3 {
     color: whitesmoke;
     font-family: 'Anton', sans-serif;
 }
-h3 {
+h4 {
     color:whitesmoke;
     font-family: 'Abel', sans-serif;
 }
