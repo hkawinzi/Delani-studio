@@ -1,3 +1,11 @@
-$("#design li").hover(function() {
-    $(this).find("right").toggle("fast");
-});
+$(document).ready(function(){
+    $(".hidden").click(function(){
+        $(".hidden").toggle();
+        $(".descript-hide p").toggle();
+        $(".caption").css({
+            "front-weight":"bold",
+            "transition":"ls",
+            "cursor":"pointer"
+        })
+    })
+})

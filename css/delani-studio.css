@@ -15,16 +15,12 @@ h1 {
     color: whitesmoke;
     font-family: 'Dancing Script', cursive;
 }
-h3 {
-    color: whitesmoke;
-    font-family: 'Anton', sans-serif;
-}
 .design-hidden {
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
 }
-h4 {
+h2 {
     color:black;
     font-family: 'Abel', sans-serif;
     text-decoration: underline;
@@ -37,24 +33,43 @@ h4 {
     text-align: center;
     color: white;
 }
-h5 {
+h3 {
+    color: whitesmoke;
     text-align: center;
-    color: aliceblue;
+    text-decoration: underline;
 }
-h6 {
+h4 {
     text-align: center;
     padding: 10px;
+    text-decoration: underline;
+}
+h5 {
+    text-align: center;
+    text-decoration: underline;
 }
 .contactus {
     background-image: url(file:///home/hapiness/IP3/backgrounds/c_image.jpg);
-    padding: 180px;
+    padding: 120px;
+}
+h6 {
+    text-align: center;
+    text-decoration: underline;
+    padding: 20px;
+}
+input {
+    width: 400px;
+    background: none;
 }
 .footer {
     text-align: center;
     margin: 10px;
 }
-::placeholder {color: rgba(0, 0, 0, 0.5);
-    color: rgba(0, 0, 0, 0.5);
-    padding-left: 0px;
+textarea {
+    background: none;
+    color: white;
 }
+.overlay-text {
+    color: white;
+}
+
 
