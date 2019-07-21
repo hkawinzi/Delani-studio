@@ -40,3 +40,17 @@ h5 {
     text-align: center;
     color: aliceblue;
 }
+h6 {
+    text-align: center;
+    padding: 10px;
+}
+.contactus {
+    background-image: url(file:///home/hapiness/IP3/backgrounds/c_image.jpg);
+    padding: 310px;
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    margin: 10px;
+}
+
