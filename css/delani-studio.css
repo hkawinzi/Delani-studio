@@ -9,8 +9,9 @@
    height:100vh;
    margin-top: zeal;
    margin-bottom: zeal;  
+   color: white;
 }
-h2 {
+h1 {
     color: whitesmoke;
     font-family: 'Dancing Script', cursive;
 }
@@ -46,11 +47,14 @@ h6 {
 }
 .contactus {
     background-image: url(file:///home/hapiness/IP3/backgrounds/c_image.jpg);
-    padding: 310px;
-    text-align: center;
+    padding: 180px;
 }
 .footer {
     text-align: center;
     margin: 10px;
+}
+::placeholder {
+    color: rgba(0, 0, 0, 0.5);
+    padding-left: 0px;
 }
 
