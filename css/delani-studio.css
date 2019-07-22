@@ -63,8 +63,10 @@ input {
     background: none;
 }
 .footer {
-    text-align: center;
-    margin: 10px;
+    align-items: center;
+    display: block;
+ 
+
 }
 #message{
     background: none;
@@ -75,7 +77,7 @@ input {
 #contactUs {
     padding: 10px;
     padding-left: 20%;
-    
+    color: white;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -92,4 +94,21 @@ input {
 form{
     align-items: center;
 }
-
+#transparent {
+    background: none;
+}
+#exampleFormControlTextarea3 {
+    background: none;
+}
+h6 {
+    text-align: center;
+   
+}
+#jambo ::placeholder {
+    color:white;
+    
+  }
+  
+.imgf{
+    align-items: center;
+}
