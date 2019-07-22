@@ -33,6 +33,7 @@ h2 {
     text-align: center;
     color: white;
 }
+
 h3 {
     color: whitesmoke;
     text-align: center;
@@ -71,5 +72,17 @@ textarea {
 .overlay-text {
     color: white;
 }
+.row {
+    text-align: center;
+}
+.portfolio {
+    padding: 80px;
+    text-align: center;
+    justify-content: space-around;
+}
+#hidden1, #hidden2, #hidden3{
+    display: none;
+}
+
 
 
