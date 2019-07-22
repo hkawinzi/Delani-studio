@@ -15,7 +15,7 @@ h1 {
     color: whitesmoke;
     font-family: 'Dancing Script', cursive;
 }
-.designHidden {
+.design-hidden {
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
@@ -31,6 +31,7 @@ h2 {
     background-size: auto;
     padding: 140px;
     text-align: center;
+    color: white;
 }
 h3 {
     color: whitesmoke;
@@ -46,7 +47,7 @@ h5 {
     text-align: center;
     text-decoration: underline;
 }
-.contactUs {
+.contactus {
     background-image: url(file:///home/hapiness/IP3/backgrounds/c_image.jpg);
     padding: 120px;
 }
@@ -63,8 +64,12 @@ input {
     text-align: center;
     margin: 10px;
 }
-textArea {
+textarea {
     background: none;
     color: white;
 }
+.overlay-text {
+    color: white;
+}
+
 
