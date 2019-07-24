@@ -46,7 +46,7 @@ h4 {
 
 }
 h5 {
-    text-align: left;
+    text-align:left;
     padding: 10px;
     color: black;
 } 
@@ -164,5 +164,7 @@ h6 {
     font-size: 20px;
     text-align: center;
     padding-top: 35%;
-    
+}
+.container{
+height: 350px;
 }
