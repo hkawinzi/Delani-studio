@@ -1,11 +1,11 @@
 .section1 {
     background-image: url("../images/h_img.jpg");
-    background-size:1380px 671px;
-    background-position: cover;
+    background-size:cover;
     display: flex;
     flex-direction: column;
    align-items: center;
    justify-content: center; 
+   padding-top: 60px;
 }
 h1 {
     color: whitesmoke;
@@ -43,7 +43,7 @@ h4 {
     text-align: left;
     padding: 10px;
     text-decoration: underline;
-    col
+
 }
 h5 {
     text-align: left;
@@ -122,4 +122,47 @@ h6 {
     margin-top:20px;
     margin-bottom:20px;
 }
-  
+.text ,.text2 {
+    width: 330px;
+    height: 300px;
+    background-color: #ffffff;
+    z-index: 1;
+    opacity: 0.2;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color: rgb(1, 24, 24);
+    font-size: 20px;
+    text-align: center;
+    padding-top: 35%;
+}
+.text1,.text4,.text6,.text7 {
+    width: 330px;
+    height: 300px;
+    background-color: #ffffff;
+    z-index: 1;
+    opacity: 0.5;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color: rgb(1, 24, 24);
+    font-size: 20px;
+    text-align: center;
+    padding-top: 35%;
+    
+}
+.text3,.text5 {
+    width: 330px;
+    height: 300px;
+    background-color: #ffffff;
+    z-index: 1;
+    opacity: 0.6;
+    position: absolute;
+    top: 0.0em;
+    display:none;
+    color: rgb(1, 24, 24);
+    font-size: 20px;
+    text-align: center;
+    padding-top: 35%;
+    
+}
