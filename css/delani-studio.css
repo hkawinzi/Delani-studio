@@ -6,10 +6,6 @@
     flex-direction: column;
    align-items: center;
    justify-content: center; 
-   height:100vh;
-   margin-top: zeal;
-   margin-bottom: zeal;  
-   color: white;
 }
 h1 {
     color: whitesmoke;
@@ -19,6 +15,9 @@ h1 {
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
+}
+#hidden1,#hidden2,#hidden3 {
+    display: none;
 }
 h2 {
     color:black;
@@ -41,14 +40,16 @@ h3 {
     text-decoration: underline;
 }
 h4 {
-    text-align: center;
+    text-align: left;
     padding: 10px;
     text-decoration: underline;
+    col
 }
 h5 {
-    text-align: center;
-    text-decoration: underline;
-}
+    text-align: left;
+    padding: 10px;
+    color: black;
+} 
 .contactus {
     background-image: url("../images/c_image.jpg");
     padding: 120px;
@@ -107,8 +108,17 @@ h6 {
 #jambo ::placeholder {
     color:white;
     
-  }
-  
-.imgf{
-    align-items: center;
 }
+.container {
+    width: 970px;
+}
+#design {
+    align-items: flex-end;
+}
+.col-space{
+    margin-top:20px;
+    margin-bottom:20px;
+ 
+
+
+  
