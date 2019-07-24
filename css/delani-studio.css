@@ -107,6 +107,9 @@ h6 {
 }
 #jambo ::placeholder {
     color:white;
+    width: 100%;
+    font-size: 13px;
+    font-style: italic;
     
 }
 .container {
@@ -118,7 +121,5 @@ h6 {
 .col-space{
     margin-top:20px;
     margin-bottom:20px;
- 
-
-
+}
   
