@@ -5,15 +5,17 @@
     flex-direction: column;
    align-items: center;
    justify-content: center; 
-   padding-top: 60px;
+
+   background-repeat: no-repeat;
+   height: 900px;
+   background-size: cover;
+
 }
 h1 {
     color: whitesmoke;
     font-family: 'Dancing Script', cursive;
 }
 .design-hidden {
-    margin-left: 10px;
-    margin-right: 10px;
     text-align: center;
 }
 #hidden1,#hidden2,#hidden3 {
@@ -21,7 +23,6 @@ h1 {
 }
 h2 {
     color:black;
-    font-family: 'Abel', sans-serif;
     text-decoration: underline;
     font-family: 'Abril Fatface', cursive;
     text-align: center;
@@ -32,23 +33,20 @@ h2 {
     padding: 140px;
     text-align: center;
     color: white;
+
 }
 
 h3 {
     color: whitesmoke;
     text-align: center;
-    text-decoration: underline;
-}
-h4 {
-    text-align: left;
-    padding: 10px;
-    text-decoration: underline;
-
+    font-family: 'Caveat', cursive;
 }
 h5 {
     text-align:left;
-    padding: 10px;
+
     color: black;
+    font-family: 'Playfair Display', serif;
+    text-decoration:underline;
 } 
 .contactus {
     background-image: url("../images/c_image.jpg");
@@ -168,3 +166,11 @@ h6 {
 .container{
 height: 350px;
 }
+p {
+margin: 0;
+}
+p.logo{
+    margin-top:55px;
+
+    }
+
