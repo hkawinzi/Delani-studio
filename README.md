@@ -58,4 +58,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 #### Contact info
-Happiness Kawinzi.To contact me for any contribution,queries or support you can contact me through my gmail account "happinesskawinzi@gmail.com" 
+<p>by:Happiness Kawinzi.</p><p>To contact me for any contribution,queries or support you can contact me through my gmail account "happinesskawinzi@gmail.com" </p>
