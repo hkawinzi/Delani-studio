@@ -1,14 +1,14 @@
 # Projects name
-IP3
+Delani studio
 
 #### brief description
-Delani studio is where programmers meet and make awesome software together, exchange ideas and discuss them in depth.
+We are the Delani studio and this is our site meant to reach a vast number of people who have the talent to sing so that we could give them a platform where they could display their talent. We have given a brief description of our site and our goals that we would wish to accomplish in the coming years.
 
 #### date-month-year
 21-07-2019
 
 #### Bugs
-The web functionality is best in an internet connected device.
+The web functionality is best in an internet connected device.There are no known bugs. In case you do encounter any, please contact us on the details below.
 
 #### installation
 *open terminal
@@ -16,10 +16,23 @@ The web functionality is best in an internet connected device.
 *git clone https://github.com/hkawinzi/Delani-studio
 
 #### technologies used
--HTML
--CSS 
--bootstrap
--jQuery
+<ul>
+<li>HTML</li>
+<li>CSS</li> 
+<li>bootstrap</li>
+<li>jQuery</li>
+
+## Sections
+* **About us**
+Get to know who we are and what our values are.
+* **Services**
+Here, we give you the chance to interact with the services we offer and how we go through a project so as to deliver to you your final and finished product.
+* **What we do**
+This contains our three main activities which are design, development, and product management.
+* **Portfolio**
+This is just a brief overview of past projects we have done.
+* **Contact us**
+You are free to contact us and we will make sure we get back to you.
 
 #### license
 MIT License
@@ -44,5 +57,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#### by
-Happiness Kawinzi.if you have any queries you can email me "happinesskawinzi@gmail.com" 
+#### Contact info
+Happiness Kawinzi.To contact me for any contribution,queries or support you can contact me through my gmail account "happinesskawinzi@gmail.com" 

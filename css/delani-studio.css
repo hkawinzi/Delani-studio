@@ -1,25 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
 .section1 {
     background-image: url("../images/h_img.jpg");
-    background-size:cover;
+    background-repeat: no repeat;
+    position: relative;
     display: flex;
     flex-direction: column;
    align-items: center;
-   justify-content: center; 
-
-   background-repeat: no-repeat;
-   height: 900px;
-   background-size: cover;
-
+   justify-content: center;
+    background-size:cover;
 }
+
+
 h1 {
     color: whitesmoke;
     font-family: 'Dancing Script', cursive;
 }
 .design-hidden {
     text-align: center;
-}
-#hidden1,#hidden2,#hidden3 {
-    display: none;
+    height:250px;
 }
 h2 {
     color:black;
@@ -30,17 +44,30 @@ h2 {
 .service {
     background-image: url("../images/s_image.jpg");
     background-size: auto;
-    padding: 140px;
+    padding: 120px;
     text-align: center;
     color: white;
 
 }
-
 h3 {
     color: whitesmoke;
     text-align: center;
     font-family: 'Caveat', cursive;
 }
+.container {
+    width: 970px;
+
+}
+.container h2 {
+    text-align: center;
+
+    }
+
+
+#hidden1,#hidden2,#hidden3 {
+    display: none;
+}
+
 h5 {
     text-align:left;
 
@@ -110,9 +137,7 @@ h6 {
     font-style: italic;
     
 }
-.container {
-    width: 970px;
-}
+
 #design {
     align-items: flex-end;
 }
@@ -121,7 +146,7 @@ h6 {
     margin-bottom:20px;
 }
 .text ,.text2 {
-    width: 330px;
+    width: 370px;
     height: 300px;
     background-color: #ffffff;
     z-index: 1;
@@ -135,7 +160,7 @@ h6 {
     padding-top: 35%;
 }
 .text1,.text4,.text6,.text7 {
-    width: 330px;
+    width: 380px;
     height: 300px;
     background-color: #ffffff;
     z-index: 1;
@@ -150,7 +175,7 @@ h6 {
     
 }
 .text3,.text5 {
-    width: 330px;
+    width: 370px;
     height: 300px;
     background-color: #ffffff;
     z-index: 1;
@@ -163,14 +188,6 @@ h6 {
     text-align: center;
     padding-top: 35%;
 }
-.container{
-height: 350px;
-}
-p {
-margin: 0;
-}
-p.logo{
-    margin-top:110px;
 
-    }
+
 
